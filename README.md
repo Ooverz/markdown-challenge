@@ -6,6 +6,7 @@ _Put Captain Solo in the cargo hold._
 
 ####"Me, in one sentence"
 
+|----------------------|--------------------------------|
 | Birthday             |         09/29                  |
 | Favorite color       |          Red                   |
 | Favorite food        |   Melanzane alla Parmiggiana   |
