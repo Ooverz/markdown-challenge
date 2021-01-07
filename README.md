@@ -2,7 +2,7 @@
 
 _Put Captain Solo in the cargo hold._
 
-![Yeah](https://github.com/Ooverz/markdown-challenge/blob/master/me.jpg?raw=true)
+![Yeah](https://github.com/Ooverz/markdown-challenge/blob/master/me.jpg=500?raw=true)
 
 #### "Me, in one sentence"
 
