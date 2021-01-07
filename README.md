@@ -11,4 +11,4 @@ _Put Captain Solo in the cargo hold._
 | Birthday             |         09/29                  |
 | Favorite color       |          Red                   |
 | Favorite food        |   Melanzane alla Parmiggiana   |
-| Pineapple on pizza : | - [] Yes - [] No - [x] NEVER   |
+| Pineapple on pizza : | - [ ] Yes - [ ] No - [x] NEVER   |
