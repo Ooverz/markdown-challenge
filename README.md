@@ -1,10 +1,10 @@
-## Adriano Campisi 
+# Adriano Campisi 
 
 _Put Captain Solo in the cargo hold._
 
-![Yeah](https://github.com/Ooverz/markdown-challenge/blob/master/me.jpg=500?raw=true)
+![Yeah](https://github.com/Ooverz/markdown-challenge/blob/master/me.jpg?raw=true)
 
-#### "Me, in one sentence"
+## "Me, in one sentence"
 
 |                      |                                |
 |----------------------|--------------------------------|
@@ -12,3 +12,5 @@ _Put Captain Solo in the cargo hold._
 | Favorite color       |          Red                   |
 | Favorite food        |   Melanzane alla Parmiggiana   |
 | Pineapple on pizza : | - [ ] Yes - [ ] No - [x] NEVER   |
+
+
