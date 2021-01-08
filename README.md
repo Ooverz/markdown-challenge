@@ -33,7 +33,11 @@ _You need some good music._
 
 ## A funny story 
 
-	...
+Once upon a time, a boy named Adriano was playing with friends at school. One of these friends was a little bit brusque so he grabed me by my backpack and trying to escape, i felt down pushing my glasses against brow bone. A good little scar for me now. 
+
+I cut myself with my glasses.
 
 << [Zena Alsibaai](https://github.com/Zena-Alsibaai) || Adriano Campisi || [Alejandro Montilla](https://github.com/AlejoVE)
+
+
 
