@@ -15,13 +15,13 @@ _Put Captain Solo in the cargo hold._
 
 ## Hobbies:
 
-..*Art
-..*Graphic design
-..*Drawing
-..*Video games... All the Geek world actually !
-..*Bicycle
-..*Music (Rap, Hip Hop, Trap, Drill, Rock, Hard Rock, Metal, Jazz, Blues, Soul, Boogie,...)
-..*Cinema
+- Art
+- Graphic design
+- Drawing
+- Video games... All the Geek world actually !
+- Bicycle
+- Music (Rap, Hip Hop, Trap, Drill, Rock, Hard Rock, Metal, Jazz, Blues, Soul, Boogie,...)
+- Cinema
 
 ## You can always count on me when...
 
