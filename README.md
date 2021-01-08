@@ -15,21 +15,21 @@ _Put Captain Solo in the cargo hold._
 
 ## Hobbies:
 
-	_ - Art_ 
-	_ - Graphic design_
-	_ - Drawing_
-	_ - Video games_
-	_ - Bycicle_
-	_ - Music (Rap, Hip Hop, Trap, Drill, Rock, Hard Rock, Metal, Jazz, Blues, Soul, Boogie,...)_
-	_ - Cinema_
+_- Art_ 
+_- Graphic design_
+_- Drawing_
+_- Video games_
+_- Bycicle_
+_- Music (Rap, Hip Hop, Trap, Drill, Rock, Hard Rock, Metal, Jazz, Blues, Soul, Boogie,...)_
+_- Cinema_
 
 ## You can always count on me when...
 
-	_You need someone to talk to._ 
+_You need someone to talk to._ 
 
-	_You need some "positive vibe"._
+_You need some "positive vibe"._
 
-	_You need some good music._
+_You need some good music._
 
 ## A funny story 
 
