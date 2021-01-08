@@ -20,8 +20,8 @@ _* Graphic design_
 _* Drawing_
 _* Video games_
 _* Bycicle_
-_* Music (Rap, Hip Hop, Trap, Drill, Rock, Hard Rock, Metal, Jazz, Blues, Soul, Boogie,...)_
-_* Cinema_
+_   Music (Rap, Hip Hop, Trap, Drill, Rock, Hard Rock, Metal, Jazz, Blues, Soul, Boogie,...)_   
+_   Cinema_  
 
 ## You can always count on me when...
 
