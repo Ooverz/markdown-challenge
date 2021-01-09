@@ -8,7 +8,7 @@ _Put Captain Solo in the cargo hold._
 
 |                      |                                |
 |----------------------|--------------------------------|
-| Birthday             |         09/29                  |
+| Birthday             |         29/09                  |
 | Favorite color       |          Red                   |
 | Favorite food        |   Melanzane alla Parmiggiana   |
 | Pineapple on pizza : | - [ ] Yes - [ ] No - [x] NEVER   |
@@ -29,11 +29,11 @@ _You need someone to talk to._
 
 _You need some "positive vibe"._
 
-_You need some good music._
+_You need some good old music._
 
 ## A funny story 
 
-Once upon a time, a boy named Adriano was playing with friends at school. One of these friends was a little bit brusque so he grabed me by my backpack and trying to escape, i felt down pushing my glasses against brow bone. A good little scar for me now. 
+Once upon a time, a boy named Adriano was playing with friends at school. One of these friends was a little bit brusque so he grabed Adriano by his backpack and, trying to escape, Adriano felt down pushing his glasses against brow bone. A good little scar for him now. 
 
 I cut myself with my own glasses.
 
